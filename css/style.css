@@ -85,3 +85,9 @@ li:hover .fa-tiktok {
 li:hover .fa-discord {
     color: #5865F2;
 }
+
+.spin {
+    transform: rotate(360deg);
+    transition: ease-out;
+    transition-duration: 1.5s;
+}

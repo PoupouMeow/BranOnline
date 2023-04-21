@@ -56,6 +56,20 @@ ul {
         margin-top: 1em;
     }
 
+    .link i {
+        font-size: 3em !important;
+    }
+
+    .link p {
+        font-size: 2em !important;
+    }
+
+    h1 {
+        margin-top: 0.5em;
+        margin-bottom: 0.6em;
+        font-size: 3em !important;
+    }
+
 }
 
 @media (min-width: 768px) {
